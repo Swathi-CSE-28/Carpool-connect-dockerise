@@ -1,0 +1,74 @@
+{
+  "nav": {
+    "login": "Log in",
+    "signup": "Sign up",
+    "dashboard": "Dashboard",
+    "findRide": "Find a Ride",
+    "myBookings": "My Bookings",
+    "waitlist": "Waiting List",
+    "savedRoutes": "Saved Routes",
+    "womenOnly": "Women-Only Rides",
+    "ecoImpact": "Eco Impact",
+    "lostFound": "Lost & Found",
+    "notifications": "Notifications",
+    "profile": "Profile & Ratings",
+    "offerRide": "Offer a Ride",
+    "myRides": "My Rides",
+    "requests": "Passenger Requests",
+    "userManagement": "User Management",
+    "rideManagement": "Ride Management",
+    "reports": "Reports",
+    "safetyAlerts": "Safety Alerts (SOS)",
+    "ratings": "Ratings & Reviews",
+    "settings": "Settings"
+  },
+  "auth": {
+    "welcomeBack": "Welcome back",
+    "loginSubtitle": "Log in to find or offer a ride.",
+    "email": "Email",
+    "password": "Password",
+    "loggingIn": "Logging in...",
+    "logIn": "Log in",
+    "newHere": "New here?",
+    "createAccount": "Create an account",
+    "orContinueWith": "or continue with",
+    "continueWithGoogle": "Continue with Google"
+  },
+  "chatbot": {
+    "title": "CarPool Assistant",
+    "placeholder": "Ask me anything about CarPool Connect...",
+    "greeting": "Hi! Ask me about bookings, safety, or Eco Impact.",
+    "send": "Send"
+  },
+  "sos": {
+    "button": "SOS",
+    "confirmTitle": "Trigger emergency SOS?",
+    "confirmBody": "This immediately alerts every online admin with your name, location and ride. Only use it for a genuine emergency.",
+    "cancel": "Cancel",
+    "confirm": "Yes, send SOS",
+    "sent": "SOS sent. Admins have been alerted.",
+    "failed": "Could not send SOS. Please call local emergency services if this is urgent."
+  },
+  "recentlyViewed": {
+    "title": "Recently viewed rides"
+  },
+  "language": {
+    "label": "Language"
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Personalize how CarPool Connect looks and speaks to you.",
+    "appearance": "Appearance",
+    "mode": "Mode",
+    "light": "Light",
+    "dark": "Dark",
+    "backgroundTheme": "Background theme",
+    "fontFamily": "Font style",
+    "fontSize": "Font size",
+    "brightness": "Brightness",
+    "language": "Language",
+    "languageDesc": "Choose the language used across the app.",
+    "reset": "Reset to defaults",
+    "saved": "Preferences are saved automatically on this device."
+  }
+}
